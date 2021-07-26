@@ -13,5 +13,5 @@
 </ul>
 
 {% for post in site.posts %}
-*[{{ post.title }}]({{ site.baseurl }}{{ post.url }}){target=“_ blank”}
+* [{{ post.title }}]({{ site.baseurl }}{{ post.url }}){:target=“_blank”}
 {% endfor %}
