@@ -7,7 +7,11 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a target="_blank" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+{% for post in site.posts %}
+*[{{ post.title }}]({{ site.baseurl }}{{ post.url }}){target=“_ blank”}
+{% endfor %}
