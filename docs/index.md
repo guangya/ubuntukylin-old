@@ -2,7 +2,7 @@
 
 本教程面向没有电脑使用经验或者经验较少的读者，没有高深的使用技巧，重点分享优麒麟的日常使用，希望能为读者带来一定的帮助。
 
-[Link to a post]({% link _posts/2021-07-26-system-update.md %})
+[Link to a post]({% post_url /2021-07-26-system-update %})
 
 ## Welcome to GitHub Pages
 
