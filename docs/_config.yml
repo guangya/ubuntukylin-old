@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+webrick:
+  headers:
+    My-Header: 优麒麟 Ubuntu Kylin 入门教程
