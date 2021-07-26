@@ -58,5 +58,16 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    {% if site.baidu_analytics %}
+      <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?4557d808288769a683a8525b9029cc45";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+      </script>
+    {% endif %}
   </body>
 </html>
