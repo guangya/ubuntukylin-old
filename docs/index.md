@@ -4,14 +4,6 @@
 
 ### 文章列表
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a target="_blank" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 {% for post in site.posts %}
 * <a target="_blank" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
