@@ -1,6 +1,10 @@
-## 虚拟机安装优麒麟Ubuntu Kylin 20.04 LTS Pro：Windows 7 + VMware Player 15
+---
+title: 虚拟机安装优麒麟Ubuntu Kylin 20.04 LTS Pro：Windows 7 + VMware Player 15
+---
 
-### 系统要求
+### 虚拟机安装优麒麟Ubuntu Kylin 20.04 LTS Pro：Windows 7 + VMware Player 15
+
+#### 系统要求
 
 Windows 7 64位
 
@@ -8,9 +12,9 @@ VMware Player 15虚拟机软件（已更名为VMware Workstation Player）
 
 如果您还未安装VMware Player ，可以参考这篇教程进行安装：
 
-[神经蛙：Windows 7安装虚拟机VMware Workstation Player 15.5.7](https://zhuanlan.zhihu.com/p/391728223)
+[Windows 7安装虚拟机VMware Workstation Player 15.5.7](https://guangya.github.io/ubuntukylin/2021/07/27/Windows7%E5%AE%89%E8%A3%85VMware-Player.html)
 
-### 下载系统镜像
+#### 下载系统镜像
 
 方法一：阿里云盘下载
 
@@ -26,7 +30,7 @@ VMware Player 15虚拟机软件（已更名为VMware Workstation Player）
 
 ![img](https://pic4.zhimg.com/v2-437b769ef293ada69fad92c13cb9aa47_b.png)
 
-### 系统安装
+#### 系统安装
 
 首先，打开VMware Player 15
 
